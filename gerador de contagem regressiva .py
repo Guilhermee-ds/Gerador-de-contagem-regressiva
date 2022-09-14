@@ -22,4 +22,3 @@ contagem(int(t))
 # 1 = importei a biblioteca time  que com ela trabalhamos segundos , minutos e horas , dias , meses .
 # 2 = defini uma função e nomeamos ela como contagem e fizemos isso para pegar o parâmetro que é (t)
 # 3 = depois  demostramos que (t) é a quantidade de segundos
-# 4 = 
